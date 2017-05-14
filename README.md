@@ -1,4 +1,5 @@
 # Scrolling-and-offsetting-Background-Tile-in-MonoGame
+XNA Game Studio Express: Developing Games for Windows and the Xbox 360 by Joseph Hall (Mixed media product, 2007)
 
 Measure the passage of time in Update method
 Track elapsed time since last frame, That records the time that has elapsed since the last call to the update 
